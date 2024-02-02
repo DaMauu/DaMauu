@@ -1,4 +1,4 @@
-[![oiozi's github stats](https://github-readme-stats.vercel.app/api?username=damauu&show_icons=true)](https://github.com/DaMauu)
+[![damauu's github stats](https://github-readme-stats.vercel.app/api?username=damauu&show_icons=true)](https://github.com/DaMauu)
 
 <!--
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=DaMauu/Gears&type=Timeline)](https://star-history.com/#DaMauu/Gears&Timeline)
+
