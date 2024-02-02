@@ -15,8 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=DaMauu/Gears&type=Timeline)](https://star-history.com/#DaMauu/Gears&Timeline)
-
